@@ -11,12 +11,3 @@ DHT11 sensor
 
 ![nordic tropicana logo](https://user-images.githubusercontent.com/75843089/236692112-e42c2fb7-dcb6-495f-8183-6419e71bfa84.png)
 
-### Instructions
-
-**1. Get hold of a ESP-32**
-
-**2. Download either Arduino-IDE or Platformio for Visual-Studio-Code**
-
-**3. You need a thinger.io account to access the dashboards**
-
-**4.**
